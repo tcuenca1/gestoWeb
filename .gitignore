@@ -31,3 +31,6 @@ lerna-debug.log*
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Agentes de desarrollo (Aislado)
+agentes_dev/
