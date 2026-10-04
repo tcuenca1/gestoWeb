@@ -1,0 +1,2 @@
+-- 02_funciones_triggers.sql
+-- Funciones y triggers para auditoría y lógica de base de datos

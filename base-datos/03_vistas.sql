@@ -1,0 +1,2 @@
+-- 03_vistas.sql
+-- Vistas analíticas y de reporte

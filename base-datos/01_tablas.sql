@@ -1,0 +1,2 @@
+-- 01_tablas.sql
+-- Definición de tablas principales del sistema GestoWeb

@@ -1,0 +1,2 @@
+-- 04_datos_iniciales.sql
+-- Datos iniciales (semilla)
